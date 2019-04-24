@@ -5,8 +5,10 @@
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "",
-      "role": ""
+      "name": "Wunderman Brussels",
+      "email": "development@wunderman.com",
+      "homepage": "https://wunderman-brussels.be",
+      "role": "Developer"
     }
   ],
   "repositories": [
